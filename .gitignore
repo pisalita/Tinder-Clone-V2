@@ -1,0 +1,18 @@
+client_secret_24606057883-erujrcdciq91fdhih5u2bvnqtkfjgbvt.apps.googleusercontent.com.json
+google-services.json
+GoogleService-Info.plist
+.env
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
